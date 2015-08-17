@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+cd /opt/rescue-max
+java -jar Rescue.jar
